@@ -10,3 +10,4 @@ https://andrefantinato.github.io/pwa-exemplo/
 
 # Reference
 https://dev.to/ronakpatel70/creating-pwa-using-angular-7-step-by-step-guide-1mb3
+https://medium.com/code-sketch/how-to-deploy-an-angular-7-app-to-github-pages-9427b609645f
